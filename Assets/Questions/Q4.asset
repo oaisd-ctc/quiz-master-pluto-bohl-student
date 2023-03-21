@@ -13,3 +13,9 @@ MonoBehaviour:
   m_Name: Q4
   m_EditorClassIdentifier: 
   question: How much wood would a woodchuck chuck if a woodchuck could chuck wood?
+  answers:
+  - None
+  - Woodchucks can't chuck wood?
+  - All of the wood
+  - About 1/2
+  correctAnswerIndex: 1

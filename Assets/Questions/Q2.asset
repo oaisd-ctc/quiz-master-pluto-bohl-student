@@ -14,3 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   question: When microwaving something late at night, how much time should be left
     on the microwave before you open it early to avoid waking others up?
+  answers:
+  - 1 Second
+  - 3 Seconds
+  - 25 Minutes
+  - 4 Hours
+  correctAnswerIndex: 0

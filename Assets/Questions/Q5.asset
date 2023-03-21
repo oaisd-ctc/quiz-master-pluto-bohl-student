@@ -12,5 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cb9b906110551c740af4b421ceee29fa, type: 3}
   m_Name: Q5
   m_EditorClassIdentifier: 
-  question: "\u14F5\u2351\u1511\u2237\u14F5\u268D\u2138 \u0323 \u14B7\u2237\u254E\u14B7
-    \u0296\U0001D679\u1511\u2237\u21B8?"
+  question: Pick the correct answer
+  answers:
+  - Not the correct answer
+  - What do you mean
+  - The Correct Answer
+  - 21
+  correctAnswerIndex: 3
